@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.pdb

@@ -1,7 +1,9 @@
-Gri Yapma
+# Görüntü İşleme 
 
-Parlaklık Ayarlama
++ Gri Yapma
 
-Histogram Eşitleme
++ Parlaklık Ayarlama
 
-İlk Haline Dönme
++ Histogram Eşitleme
+
++ İlk Haline Dönme

@@ -1,5 +1,3 @@
-ImageProcessing
-
 Gri Yapma
 
 Parlaklık Ayarlama
